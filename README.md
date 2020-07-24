@@ -21,14 +21,14 @@ Programmers who don't want to be product managers are not good engineers!
 ### My skills
 
 ```text
-C#				  █████████████░░░░░░░░		6.5
-JS/TS			  ██████████░░░░░░░░░░░		5
-CSS/SCSS		██████████░░░░░░░░░░░		5
-Python			█████████░░░░░░░░░░░░		4.5
-Java			  ██████░░░░░░░░░░░░░░░		3
+C#                █████████████░░░░░░░░      6.5
+JS/TS             ██████████░░░░░░░░░░░      5
+CSS/SCSS          ██████████░░░░░░░░░░░      5
+Python            █████████░░░░░░░░░░░░      4.5
+Java              ██████░░░░░░░░░░░░░░░      3
 
-Git				  ██████████░░░░░░░░░░░		5
-Docker			████████░░░░░░░░░░░░░		4
+Git               ██████████░░░░░░░░░░░      5
+Docker            ████████░░░░░░░░░░░░░      4
 ```
 
 \* skills style copy from [gautamkrishnar](https://github.com/gautamkrishnar)
