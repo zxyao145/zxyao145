@@ -1,14 +1,20 @@
 ## Hi there
 
-I'm zxyao 半野, and I'a programmer who used to be a GISer. 
+I'm zxyao 半野, and I'm a programmer who used to be a GISer. 
+
+我是 zxyao 半野，学GIS出身的程序员。
 
 
 
 My personal blog site is [zxyao.net](https://www.zxyao.net) , there are many places for perfection.
 
+我的个人博客是 [zxyao.net](https://www.zxyao.net) ，它还有很多地方待完善。
+
 
 
 I like coding, like "not engaging in honest work", and doing something fun.
+
+我喜欢编码，喜欢”不务正业“，做些有趣的事情。
 
 
 
