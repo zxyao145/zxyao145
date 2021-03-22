@@ -1,8 +1,8 @@
 ## Hi there
 
-I'm zxyao 半野, and I'm a programmer who used to be a GISer. 
+I'm zxyao, and I'm a programmer who used to be a GISer. 
 
-我是 zxyao 半野，学GIS出身的程序员。
+我是 zxyao，学GIS出身的程序员。
 
 &nbsp; 
 
