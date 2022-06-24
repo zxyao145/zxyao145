@@ -1,43 +1,20 @@
-## Hi there
+## Hi there 👋
 
-I'm zxyao, and I'm a programmer who used to be a GISer. 
+I'm zxyao, a programmer who used to be a GISer, and my dream is to change the world.
 
-我是 zxyao，学GIS出身的程序员。
+I ❤️ coding, "not engaging in honest work", and doing something fun.
 
-&nbsp; 
+[Personal  Blog](https://www.zxyao.net)
 
-My personal blog site is [zxyao.net](https://www.zxyao.net) , there are many places for perfection.
+[My Skills](skillicons.dev):
 
-我的个人博客是 [zxyao.net](https://www.zxyao.net) ，它还有很多地方待完善。
+![skills](https://skillicons.dev/icons?i=dotnet,cs,html,scss,ts,java,py,go,jquery,react,docker,git,github,mysql,stackoverflow,vscode,idea,nginx,postgres,mysql,redis,cassandra,cloudflare,md,ps)
 
-&nbsp; 
+[![](https://raw.githubusercontent.com/zxyao145/github-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/zxyao145/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zxyao145/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/zxyao145/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zxyao145/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/zxyao145/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zxyao145/github-profile-summary-cards/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/zxyao145/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zxyao145/github-profile-summary-cards/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/zxyao145/github-profile-summary-cards)
 
-I like coding, like "not engaging in honest work", and doing something fun.
+Thx:
 
-我喜欢编码，喜欢”不务正业“，做些有趣的事情。
-
-&nbsp; 
-
-Programmers who don't want to be product managers are not good engineers!
-
-不想成为产品经理的程序员不是好的工程师!
-
-&nbsp; 
-
-&nbsp; 
-
-### My skills
-
-```text
-C#                █████████████░░░░░░░░      6.5
-JS/TS             ██████████░░░░░░░░░░░      5
-CSS/SCSS          ██████████░░░░░░░░░░░      5
-Python            █████████░░░░░░░░░░░░      4.5
-Java              █████████████░░░░░░░░      6
-
-Git               ██████████░░░░░░░░░░░      5
-Docker            ████████░░░░░░░░░░░░░      4
-```
-
-\* skills style copy from [gautamkrishnar](https://github.com/gautamkrishnar)
-
+- [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [skill-icons](https://github.com/tandpfun/skill-icons)
