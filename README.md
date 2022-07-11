@@ -4,7 +4,9 @@ I'm zxyao, a programmer who used to be a GISer, and my dream is to change the wo
 
 I ❤️ coding, "not engaging in honest work", and doing something fun.
 
-[Personal  Blog](https://www.zxyao.net)
+ - [Personal Blog](https://www.zxyao.net)
+ - [github.io](https://zxyao145.github.io/)
+
 
 [My Skills](skillicons.dev):
 
