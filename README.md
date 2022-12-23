@@ -10,7 +10,7 @@ I ❤️ coding, "not engaging in honest work", and doing something fun.
 
 [My Skills](skillicons.dev):
 
-![skills](https://skillicons.dev/icons?i=dotnet,cs,html,scss,ts,java,py,go,jquery,react,docker,git,github,mysql,stackoverflow,vscode,idea,nginx,postgres,mysql,redis,cassandra,cloudflare,md,ps)
+![skills](https://skillicons.dev/icons?i=dotnet,cs,html,scss,ts,java,py,go,jquery,react,docker,kubernetes,git,github,stackoverflow,vscode,idea,nginx,postgres,mysql,redis,cassandra,cloudflare,md,ps)
 
 [![](https://raw.githubusercontent.com/zxyao145/github-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/zxyao145/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/zxyao145/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/zxyao145/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zxyao145/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/zxyao145/github-profile-summary-cards)
